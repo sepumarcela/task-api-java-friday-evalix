@@ -38,8 +38,4 @@ public class LoginDatasource {
     public String delete (int index){
         return this.database.delete(index);
     }
-
-
-
-
 }

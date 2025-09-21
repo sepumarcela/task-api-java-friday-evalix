@@ -38,22 +38,3 @@ public class LoginRepository {
         return this.loginDataSource.delete(index);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
